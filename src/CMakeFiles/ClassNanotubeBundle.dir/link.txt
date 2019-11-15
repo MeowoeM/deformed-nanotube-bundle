@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libClassNanotubeBundle.a  CMakeFiles/ClassNanotubeBundle.dir/ClassNanotubeBundle.f90.o
+/usr/bin/ranlib ../lib/libClassNanotubeBundle.a

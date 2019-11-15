@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libLattice2d.a  CMakeFiles/Lattice2d.dir/Lattice2d.f90.o
+/usr/bin/ranlib ../lib/libLattice2d.a

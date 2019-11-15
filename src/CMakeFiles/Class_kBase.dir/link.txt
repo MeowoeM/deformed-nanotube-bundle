@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libClass_kBase.a  CMakeFiles/Class_kBase.dir/Class_kBase.f90.o
+/usr/bin/ranlib ../lib/libClass_kBase.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libModuleHermitianMatrixEigenvalueSolver.a  CMakeFiles/ModuleHermitianMatrixEigenvalueSolver.dir/ModuleHermitianMatrixEigenvalueSolver.f90.o
+/usr/bin/ranlib ../lib/libModuleHermitianMatrixEigenvalueSolver.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libClassVectorDouble.a  CMakeFiles/ClassVectorDouble.dir/ClassVectorDouble.f90.o
+/usr/bin/ranlib ../lib/libClassVectorDouble.a

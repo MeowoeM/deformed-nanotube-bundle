@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libClassVectorInteger.a  CMakeFiles/ClassVectorInteger.dir/ClassVectorInteger.f90.o
+/usr/bin/ranlib ../lib/libClassVectorInteger.a

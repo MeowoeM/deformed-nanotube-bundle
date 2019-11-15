@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libClassVectorDoubleArray1d.a  CMakeFiles/ClassVectorDoubleArray1d.dir/ClassVectorDoubleArray1d.f90.o
+/usr/bin/ranlib ../lib/libClassVectorDoubleArray1d.a

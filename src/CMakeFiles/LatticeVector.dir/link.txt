@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libLatticeVector.a  CMakeFiles/LatticeVector.dir/LatticeVector.f90.o
+/usr/bin/ranlib ../lib/libLatticeVector.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libClassHamiltonianConstructor.a  CMakeFiles/ClassHamiltonianConstructor.dir/ClassHamiltonianConstructor.f90.o
+/usr/bin/ranlib ../lib/libClassHamiltonianConstructor.a

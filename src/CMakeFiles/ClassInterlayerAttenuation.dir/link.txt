@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libClassInterlayerAttenuation.a  CMakeFiles/ClassInterlayerAttenuation.dir/ClassInterlayerAttenuation.f90.o
+/usr/bin/ranlib ../lib/libClassInterlayerAttenuation.a

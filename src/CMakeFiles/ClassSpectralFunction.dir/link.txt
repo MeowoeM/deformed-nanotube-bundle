@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libClassSpectralFunction.a  CMakeFiles/ClassSpectralFunction.dir/ClassSpectralFunction.f90.o
+/usr/bin/ranlib ../lib/libClassSpectralFunction.a

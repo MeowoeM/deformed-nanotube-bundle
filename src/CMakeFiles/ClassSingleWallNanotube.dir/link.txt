@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libClassSingleWallNanotube.a  CMakeFiles/ClassSingleWallNanotube.dir/ClassSingleWallNanotube.f90.o
+/usr/bin/ranlib ../lib/libClassSingleWallNanotube.a
