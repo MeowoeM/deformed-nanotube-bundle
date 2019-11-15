@@ -1,4 +1,5 @@
 # deformed-nanotube-bundle
+calculate band structures of deformed nanotube bundles with different chiralities.
 
 ## Install
 under the root directory
